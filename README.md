@@ -1,7 +1,7 @@
 <p align="center">
   Network Engineering • Cisco • Routing & Switching • Troubleshooting
 </p>
-# Hi, I'm Kinan Alsayed 👋
+# Hi, I'm Kinan Alsayed Obaid 👋
 
 ## Network Engineer | CCNA
 
