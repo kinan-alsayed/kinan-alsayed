@@ -3,14 +3,15 @@
 </p>
 # Hi, I'm Kinan Alsayed Obaid 👋
 
-## Network Engineer | CCNA
+## Network Engineer
 
 I'm a Network Engineer focused on designing, configuring, and troubleshooting computer networks.
 
-I have hands-on experience with Cisco networking technologies and network simulation using Cisco Packet Tracer.
+I have hands-on experience with Cisco networking technologies and network simulation using.
 
 ### 🛠️ Networking Skills
 
+- CCNA
 - Cisco Networking
 - VLANs & Trunking
 - Router-on-a-Stick
@@ -52,7 +53,7 @@ More details and project documentation will be available in the project reposito
 
 ### 🎯 Career Goal
 
-I'm continuously developing my practical networking skills and building real-world networking projects to grow as a Network Engineer.
+I'm continuously developing my practical networking skills and building real-world networking projects to grow.
 
 ---
 ### 🔗 Connect
